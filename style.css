@@ -3,9 +3,7 @@
     box-sizing: border-box;
 }
 /* general */
-body {
-    background-image: url(/img/textura.png);
-}
+
 hr {
     margin:30px;
 }

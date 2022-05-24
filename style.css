@@ -61,15 +61,6 @@ img {
     transform: scale(1.2);
     transition: all 0.5s;
 }
-.animate__animated .animate__bounce {
-    --animate-duration: 2s;
-    font-family:'roboto', sans-serif;
-    font-size: 50px;
-    text-align: center;
-    margin: 8%;
-    text-shadow: 2px 2px 5px grey;
-    text-transform: uppercase;
-}
 /* fin generales */
 
 /* Header */
